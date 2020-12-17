@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoseidonTest", "PoseidonTest\PoseidonTest.csproj", "{1CD0BF94-32A8-4C16-A1F6-A8A167BFB300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoseidonLogic", "PoseidonLogic\PoseidonLogic.csproj", "{83E7373C-6A5B-4E90-82A2-5B0D0B41E286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD0BF94-32A8-4C16-A1F6-A8A167BFB300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD0BF94-32A8-4C16-A1F6-A8A167BFB300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD0BF94-32A8-4C16-A1F6-A8A167BFB300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD0BF94-32A8-4C16-A1F6-A8A167BFB300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E7373C-6A5B-4E90-82A2-5B0D0B41E286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E7373C-6A5B-4E90-82A2-5B0D0B41E286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E7373C-6A5B-4E90-82A2-5B0D0B41E286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E7373C-6A5B-4E90-82A2-5B0D0B41E286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29DCFEE-22DA-4513-BDEC-C3019065EED1}
+	EndGlobalSection
+EndGlobal
