@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fcSTMDXGx5XRacnmFQ/mZwxIfNzWYfgRo/TVYMY2DTk50HnL7kTo7dcVkYBUppTrfTovCTWXuneiWILgOZFTrw==",
+  "dgSpecHash": "A9BUdQT8r6doXWMvXEueYY0KrfVp1e1seQDlL/y6e7wCR2BY07JLdn2qrj/tUuG1VgOvPKx9/vDyOUpFKxHj5w==",
   "success": true,
-  "projectFilePath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonLogic\\PoseidonLogic.csproj",
+  "projectFilePath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonLogic\\PoseidonLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.courtney\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\lucas.courtney\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

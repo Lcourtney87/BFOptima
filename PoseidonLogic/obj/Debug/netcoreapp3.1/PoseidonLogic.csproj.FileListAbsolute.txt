@@ -7,3 +7,12 @@ E:\SourceControl\Optima\PoseidonLibrary\PoseidonLogic\obj\Debug\netcoreapp3.1\Po
 E:\SourceControl\Optima\PoseidonLibrary\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.dll
 E:\SourceControl\Optima\PoseidonLibrary\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.pdb
 E:\SourceControl\Optima\PoseidonLibrary\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.csprojAssemblyReference.cache
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\bin\Debug\netcoreapp3.1\PoseidonLogic.deps.json
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\bin\Debug\netcoreapp3.1\PoseidonLogic.dll
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\bin\Debug\netcoreapp3.1\PoseidonLogic.pdb
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.csprojAssemblyReference.cache
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.AssemblyInfoInputs.cache
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.AssemblyInfo.cs
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.csproj.CoreCompileInputs.cache
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.dll
+E:\SourceControl\Optima\PoseidonLibrary\BFOptima\PoseidonLogic\obj\Debug\netcoreapp3.1\PoseidonLogic.pdb

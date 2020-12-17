@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQVkDrRtC1gEdkUIXGcra9Keza7tMmDirsjYwI/RGP8Q98Tiq5vHTX8zo27VTByl7Q8tpaFrhu+o1Sl5hvqt/A==",
+  "dgSpecHash": "PVfjSTREQ+9FWYNVnVs97CZEQSriQRGi+wfzFvLc5xxpFQ2SoS9f6AzoMsmkbAnVvwB5v0xlwlTgs4h0kX0opw==",
   "success": true,
-  "projectFilePath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonTest\\PoseidonTest.csproj",
+  "projectFilePath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonTest\\PoseidonTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas.courtney\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\lucas.courtney\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonTest\\PoseidonTest.csproj": {}
+    "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonTest\\PoseidonTest.csproj": {}
   },
   "projects": {
-    "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonLogic\\PoseidonLogic.csproj": {
+    "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonLogic\\PoseidonLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonLogic\\PoseidonLogic.csproj",
+        "projectUniqueName": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonLogic\\PoseidonLogic.csproj",
         "projectName": "PoseidonLogic",
-        "projectPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonLogic\\PoseidonLogic.csproj",
+        "projectPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonLogic\\PoseidonLogic.csproj",
         "packagesPath": "C:\\Users\\lucas.courtney\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonLogic\\obj\\",
+        "outputPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -87,14 +87,14 @@
         }
       }
     },
-    "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonTest\\PoseidonTest.csproj": {
+    "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonTest\\PoseidonTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonTest\\PoseidonTest.csproj",
+        "projectUniqueName": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonTest\\PoseidonTest.csproj",
         "projectName": "PoseidonTest",
-        "projectPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonTest\\PoseidonTest.csproj",
+        "projectPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonTest\\PoseidonTest.csproj",
         "packagesPath": "C:\\Users\\lucas.courtney\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonTest\\obj\\",
+        "outputPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -116,8 +116,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonLogic\\PoseidonLogic.csproj": {
-                "projectPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\PoseidonLogic\\PoseidonLogic.csproj"
+              "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonLogic\\PoseidonLogic.csproj": {
+                "projectPath": "E:\\SourceControl\\Optima\\PoseidonLibrary\\BFOptima\\PoseidonLogic\\PoseidonLogic.csproj"
               }
             }
           }
